@@ -1,5 +1,6 @@
 # Project_RTCCA
-miRNA-gene regulatory module discovery
+RTCCA: miRNA-gene regulatory module discovery via integrating miRNA and mRNA expression across 33 cancer types
 
-这是我做的第一个张量模型！
+This is a tensor model!!!
+
 2018-08-25
