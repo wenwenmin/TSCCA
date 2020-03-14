@@ -6,7 +6,7 @@ In this study, we proposed a Tensor Sparse Canonical Correlation Analysis (TSCCA
 More descriptions about these functions can be found in their annotation part.
 
 <p align="center"> 
-<img src="https://github.com/wenwenmin/ESPCA/blob/master/TSCCA.png">
+<img src="https://github.com/wenwenmin/TSCCA/blob/master/TSCCA.png">
 </p>
 
 ### R code
