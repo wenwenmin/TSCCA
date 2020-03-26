@@ -10,7 +10,7 @@ More descriptions about these functions can be found in their annotation part.
 </p>
 
 ### R code
-Note that before running the codes, please first set the path for "Fun1_Example.R".
+Note that before running the codes, please first set the path for "Fun2_simulation_study_main.R".
 Please run the following R command in the Console. 
 
 ``` r
