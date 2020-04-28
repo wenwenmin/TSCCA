@@ -35,7 +35,7 @@ TSCCA = function(Tensor, ku, kv, kw, J=1, niter=1000, err=0.0001){
       temp_d = c(temp_d, t(w)%*%z.w) 
       
       # Algorithm termination condition
-      if ((norm(u - u0,'E')<= err)&(norm(v - v0,'E')<= err)&(norm(w - w0,'E')<= err)){break}
+      if (norm(u - u0,'E') + norm(v - v0,'E') + norm(w - w0,'E') < err){break}
       else {
         u0=u; v0=v; w0=w}
     }
