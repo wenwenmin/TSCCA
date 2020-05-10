@@ -18,8 +18,7 @@ Please run the following R command in the Console.
 ```
 
 ### TCGA data 
-We comprehensively evaluate the performance of TSCCA using a set of simulated data and matched miRNA/gene expression data across 33 cancer.
-types from the TCGA database.
+We comprehensively evaluate the performance of TSCCA using a set of simulated data and matched miRNA/gene expression data across 33 cancer types from the TCGA database.
 <p align="center"> 
 <img src="https://github.com/wenwenmin/TSCCA/blob/master/Fig_tcga_data_table.png">
 </p>
