@@ -3,11 +3,11 @@
 ### Introduction
 
 This package is used to solve Tensor Sparse Canonical Correlation Analysis (TSCCA) model in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
-More descriptions about these functions can be found in their annotation part.
+More descriptions about these functions can be found in their annotation part. 
 
+The following flowchart explains how TSCCA identify cancer-related miRNA-gene functional modules. 
 <p align="center"> 
 <img src="https://github.com/wenwenmin/TSCCA/blob/master/Figures/TSCCA.png">
-Figure 1. Illustration of TSCCA to identify cancer-related miRNA-gene functional modules. 
 </p>
 
 ### R code
