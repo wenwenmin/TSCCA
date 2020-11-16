@@ -15,7 +15,7 @@ kv = 100
 kw = 20
 J  = 50 # 50 modules
 
-# Test to miRNA-gene data
+# Apply TSCCA to tcga data across 33 cancer types
 ptm = proc.time()
 out = TSCCA(DiffExp_Tensor, ku, kv, kw, J)
 time1 = proc.time() - ptm; print(time1)
