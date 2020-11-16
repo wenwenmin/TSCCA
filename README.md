@@ -8,6 +8,7 @@ More descriptions about these functions can be found in their annotation part.
 
 <p align="center"> 
 <img src="https://github.com/wenwenmin/TSCCA/blob/master/Figures/TSCCA.png">
+  XXXXX
 </p>
 
 ### R code
