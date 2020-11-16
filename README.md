@@ -7,8 +7,6 @@ In this study, we present a Tensor Sparse Canonical Correlation Analysis (TSCCA)
 This package is used to solve TSCCA model in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
 More descriptions about these functions can be found in their annotation part. 
 
-#### Flowchart
-
 Illustration of TSCCA to identify cancer-miRNA-gene functional modules.
 <p align="center"> 
 <img src="https://github.com/wenwenmin/TSCCA/blob/master/Figures/Fig1_TSCCA.png">
