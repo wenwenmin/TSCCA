@@ -7,7 +7,7 @@ More descriptions about these functions can be found in their annotation part.
 
 The following flowchart explains how TSCCA identify cancer-related miRNA-gene functional modules. 
 <p align="center"> 
-<img src="https://github.com/wenwenmin/TSCCA/blob/master/Figures/TSCCA.png">
+<img src="https://github.com/wenwenmin/TSCCA/blob/master/Figures/Fig1_TSCCA.png">
 </p>
 
 ### R code
