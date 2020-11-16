@@ -4,7 +4,7 @@
 
 In this study, we present a Tensor Sparse Canonical Correlation Analysis (TSCCA) method for identifying cancer-related miRNA-gene modules across multiple cancers. TSCCA is able to overcome the drawbacks of existing solutions and capture both the cancer-shared and specific miRNA-gene co-expressed modules with better biological interpretations. We comprehensively evaluate the performance of TSCCA using a set of simulated data and matched miRNA/gene expression data across 33 cancer types from the TCGA database.
 
-This package is used to solve Tensor Sparse Canonical Correlation Analysis (TSCCA) model in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
+This package is used to solve TSCCA model in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
 More descriptions about these functions can be found in their annotation part. 
 
 #### Flowchart
