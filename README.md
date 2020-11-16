@@ -24,11 +24,7 @@ Next, we applied TSCCA and SCCA to these simulated data in the second example. P
 ```
 
 ### TCGA data 
-In addition, we also comprehensively evaluated the performance of TSCCA using a set of simulated data and matched miRNA/gene expression data across 33 cancer types from the TCGA database.
-<p align="center"> 
-<img src="https://github.com/wenwenmin/TSCCA/blob/master/Fig_tcga_data_table.png">
-</p>
-
+In addition, we also comprehensively evaluated the performance of TSCCA using a set of simulated data and matched miRNA/gene expression data across 33 cancer types from the TCGA database (see See folder "Results_tcga").
 
 ### References
 <table class="docutils footnote" frame="void" id="id2" rules="none">
