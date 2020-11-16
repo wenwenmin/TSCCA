@@ -13,8 +13,8 @@ Illustration of TSCCA to identify cancer-miRNA-gene functional modules.
 </p>
 
 ### R code
-Note that before running the codes, please first set the path for "script1_toy_example.R".
-Please run the following R command in the Console and this simple example explains how to use the TSCCA function. 
+A toy example explains how to use the TSCCA function. Before running the script, please first set the path for "script1_toy_example.R",
+and then run the following R command in the Console. 
 
 ``` r
 > source('script1_toy_example.R') 
