@@ -34,7 +34,7 @@ In addition, we also comprehensively evaluated the performance of TSCCA using a 
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
 <tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> 
-Wenwen Min, Tsung-Hui Chang, Shihua Zhang and Xiang Wan. TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. PLOS Computational Biology (Revision). 
+Wenwen Min, Tsung-Hui Chang, Shihua Zhang* and Xiang Wan*. TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. PLOS Computational Biology 2021, DOI: 10.1371/journal.pcbi.1009044. 
 </td></tr>
 </tbody>
 </table>
